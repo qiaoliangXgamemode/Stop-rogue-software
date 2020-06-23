@@ -1,0 +1,15 @@
+C:\Users\Bridge Grain\source\repos\Stop-rogue-software\Stop-rogue-software\obj\Debug\Stop-rogue-software.csprojAssemblyReference.cache
+C:\Users\Bridge Grain\source\repos\Stop-rogue-software\Stop-rogue-software\obj\Debug\MainWindow.g.cs
+C:\Users\Bridge Grain\source\repos\Stop-rogue-software\Stop-rogue-software\obj\Debug\App.g.cs
+C:\Users\Bridge Grain\source\repos\Stop-rogue-software\Stop-rogue-software\obj\Debug\Stop-rogue-software_MarkupCompile.cache
+C:\Users\Bridge Grain\source\repos\Stop-rogue-software\Stop-rogue-software\obj\Debug\Stop-rogue-software_MarkupCompile.lref
+C:\Users\Bridge Grain\source\repos\Stop-rogue-software\Stop-rogue-software\bin\Debug\Stop-rogue-software.exe.config
+C:\Users\Bridge Grain\source\repos\Stop-rogue-software\Stop-rogue-software\bin\Debug\Stop-rogue-software.exe
+C:\Users\Bridge Grain\source\repos\Stop-rogue-software\Stop-rogue-software\bin\Debug\Stop-rogue-software.pdb
+C:\Users\Bridge Grain\source\repos\Stop-rogue-software\Stop-rogue-software\obj\Debug\MainWindow.baml
+C:\Users\Bridge Grain\source\repos\Stop-rogue-software\Stop-rogue-software\obj\Debug\Stop-rogue-software.g.resources
+C:\Users\Bridge Grain\source\repos\Stop-rogue-software\Stop-rogue-software\obj\Debug\Stop_rogue_software.Properties.Resources.resources
+C:\Users\Bridge Grain\source\repos\Stop-rogue-software\Stop-rogue-software\obj\Debug\Stop-rogue-software.csproj.GenerateResource.cache
+C:\Users\Bridge Grain\source\repos\Stop-rogue-software\Stop-rogue-software\obj\Debug\Stop-rogue-software.csproj.CoreCompileInputs.cache
+C:\Users\Bridge Grain\source\repos\Stop-rogue-software\Stop-rogue-software\obj\Debug\Stop-rogue-software.exe
+C:\Users\Bridge Grain\source\repos\Stop-rogue-software\Stop-rogue-software\obj\Debug\Stop-rogue-software.pdb

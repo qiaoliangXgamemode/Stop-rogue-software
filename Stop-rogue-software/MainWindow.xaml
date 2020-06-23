@@ -1,0 +1,23 @@
+﻿<Window x:Class="Stop_rogue_software.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Stop_rogue_software"
+        mc:Ignorable="d"
+        Title="Stop-rogue-software" Height="450" Width="800" WindowStartupLocation="CenterScreen" WindowStyle="None" AllowsTransparency="True" >
+    <Grid>
+        <Grid HorizontalAlignment="Left" Height="40" VerticalAlignment="Top" Width="805" Background="#FF050023" Margin="0,0,-5,0"/>
+        <Button Content="确定" HorizontalAlignment="Left" Height="37" Margin="680,405,0,0" VerticalAlignment="Top" Width="112" Background="Black" Foreground="White" BorderBrush="Black"/>
+        <WrapPanel HorizontalAlignment="Left" Height="345" Margin="10,55,0,0" VerticalAlignment="Top" Width="782" Background="#FFF6F6F6" >
+            <CheckBox Content="阻止进程后台允许" Height="40" Width="195" BorderBrush="Black" Background="White" Foreground="#FF333333" FontSize="16" HorizontalAlignment="Center" VerticalAlignment="Center" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Margin="8" Padding="8"/>
+            <CheckBox Content="禁止广告进程运行" Height="40" Width="195" BorderBrush="Black" Background="White" Foreground="#FF333333" FontSize="16" HorizontalAlignment="Center" VerticalAlignment="Center" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Margin="8" Padding="8"/>
+            <CheckBox Content="对硬盘进行监测" Height="40" Width="195" BorderBrush="Black" Background="White" Foreground="#FF333333" FontSize="16" HorizontalAlignment="Center" VerticalAlignment="Center" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Margin="8" Padding="8"/>
+            <CheckBox Content="浏览器检测是否被篡改" Height="40" Width="195" BorderBrush="Black" Background="White" Foreground="#FF333333" FontSize="16" HorizontalAlignment="Center" VerticalAlignment="Center" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Margin="8" Padding="8"/>
+            <CheckBox Content="检测占用资源和宽带的流氓软件" Height="40" Width="275" BorderBrush="Black" Background="White" Foreground="#FF333333" FontSize="16" HorizontalAlignment="Center" VerticalAlignment="Center" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Margin="8" Padding="8"/>
+            <CheckBox Content="对每个磁盘进行检查" Height="40" Width="255" BorderBrush="Black" Background="White" Foreground="#FF333333" FontSize="16" HorizontalAlignment="Center" VerticalAlignment="Center" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Margin="8" Padding="8"/>
+            <CheckBox Content="对键盘实行监控" Height="40" Width="255" BorderBrush="Black" Background="White" Foreground="#FF333333" FontSize="16" HorizontalAlignment="Center" VerticalAlignment="Center" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Margin="8" Padding="8"/>
+            <CheckBox Content="反向针对流氓软件的行为(直接用你电脑去攻击服务器)" Height="40" Width="758" BorderBrush="Black" Background="White" Foreground="#FF333333" FontSize="16" HorizontalAlignment="Center" VerticalAlignment="Center" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Margin="8" Padding="8" />
+        </WrapPanel>
+    </Grid>
+</Window>
